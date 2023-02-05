@@ -21,7 +21,7 @@ html{
 }
 .btn{
     display: inline-block;
-    padding: 0.8rem 3.8rem;
+    padding: 0.5rem .8rem;
     font-size: 1.8rem;
     border: 0.1rem solid var(--sc-color);
     outline: 0;
@@ -47,7 +47,7 @@ html{
     width: 15rem;
 }
 .heading div:hover{
-    width: 25rem;
+    width: 20rem;
 }
 section{
     padding: 3rem 9%;
